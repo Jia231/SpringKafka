@@ -1,4 +1,4 @@
-#Welcome to Spring Kafka demo#
+# Welcome to Spring Kafka demo #
 
 **Initialize Kafka server**
 
