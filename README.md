@@ -1,1 +1,1 @@
-kafka
+Welcome to Spring Kafka demo
